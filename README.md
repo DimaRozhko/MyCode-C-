@@ -1,2 +1,2 @@
 # MyCode-C
-*C/C++
+qC/C++
