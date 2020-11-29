@@ -1,2 +1,2 @@
 # MyCode-C
-a
+*C/C++
