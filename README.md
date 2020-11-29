@@ -1,1 +1,2 @@
 # MyCode-C
+*C/C++
