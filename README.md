@@ -1,2 +1,2 @@
 # MyCode-C
-qC/C++
+aC/C++
